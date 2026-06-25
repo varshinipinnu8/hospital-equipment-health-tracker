@@ -19,7 +19,7 @@ The Integrated Hospital Equipment Management Module is designed to manage the pr
 
 1. **Clone the repository**
     ```sh
-    git clone 
+    git clone https://github.com/varshinipinnu8/hospital-equipment-health-tracker
     cd EONCO_MACHINES_022
     ```
 
