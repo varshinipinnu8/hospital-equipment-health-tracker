@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vigneshwaranbalamurugan/EONCO_MACHINES_022.git"
+    "url": "git+https://github.com/varshinipinnu8/hospital-equipment-health-tracker.git"
   },
   "keywords": [
     "Nodejs",
     "Reactjs"
   ],
-  "author": "Vigneshwaran VijayBharath Shriraam",
+  "author": "varshini",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vigneshwaranbalamurugan/EONCO_MACHINES_022/issues"
+    "url": "https://github.com/varshinipinnu8/hospital-equipment-health-tracker/issues"
   },
-  "homepage": "https://github.com/vigneshwaranbalamurugan/EONCO_MACHINES_022#readme",
+  "homepage": "https://github.com/varshinipinnu8/hospital-equipment-health-tracker#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
